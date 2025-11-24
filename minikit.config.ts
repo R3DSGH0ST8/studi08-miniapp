@@ -16,8 +16,8 @@ export const minikitConfig = {
   miniapp: {
     version: "1",
     name: "STUDI08F0REV3R", 
-    subtitle: "Your AI Ad Companion", 
-    description: "Mini App scaffold deployed by STUDI08F0REV3R",
+    subtitle: "Operational entry mark ™", 
+    description: "Mini App scaffold deployed by STUDI08F0REV3R™",
     screenshotUrls: [`${ROOT_URL}/screenshot-portrait.png`],
     iconUrl: `${ROOT_URL}/blue-icon.png`,
     splashImageUrl: `${ROOT_URL}/blue-hero.png`,
@@ -29,7 +29,7 @@ export const minikitConfig = {
     heroImageUrl: `${ROOT_URL}/blue-hero.png`, 
     tagline: "MAKING 0UR MARK...0NE S0UL AT A TIME...",
     ogTitle: "STUDI08F0REV3R™ Mini App",
-    ogDescription: "",
+    ogDescription: "Deployed by STUDI08F0REV3R",
     ogImageUrl: `${ROOT_URL}/blue-hero.png`,
   },
 } as const;
