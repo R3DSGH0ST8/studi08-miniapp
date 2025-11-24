@@ -17,7 +17,7 @@ export const minikitConfig = {
     version: "1",
     name: "STUDI08F0REV3R", 
     subtitle: "Your AI Ad Companion", 
-    description: "Ads",
+    description: "Mini App scaffold deployed by STUDI08F0REV3R",
     screenshotUrls: [`${ROOT_URL}/screenshot-portrait.png`],
     iconUrl: `${ROOT_URL}/blue-icon.png`,
     splashImageUrl: `${ROOT_URL}/blue-hero.png`,
