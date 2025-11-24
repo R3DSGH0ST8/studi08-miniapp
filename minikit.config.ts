@@ -15,7 +15,7 @@ export const minikitConfig = {
   },
   miniapp: {
     version: "1",
-    name: "Cubey", 
+    name: "STUDI08F0REV3R", 
     subtitle: "Your AI Ad Companion", 
     description: "Ads",
     screenshotUrls: [`${ROOT_URL}/screenshot-portrait.png`],
@@ -27,7 +27,7 @@ export const minikitConfig = {
     primaryCategory: "social",
     tags: ["marketing", "ads", "quickstart", "waitlist"],
     heroImageUrl: `${ROOT_URL}/blue-hero.png`, 
-    tagline: "",
+    tagline: "MAKING 0UR MARK... 0NE S0UL AT A TIME...",
     ogTitle: "",
     ogDescription: "",
     ogImageUrl: `${ROOT_URL}/blue-hero.png`,
